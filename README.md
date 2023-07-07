@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @juancarlospazmedina
-- 👀 I’m interested in devops
-- 🌱 I’m currently learning aws
-- 💞️ I’m looking to collaborate on devops
+- 👀 I’m interested in a web development job
+- 🌱 I’m currently learning html, css, bootstrap, javascript, jquery, node.js, APIs, MongoDB, Mongoose, React.js
+- 💞️ I’m looking to collaborate on web development projects
 - 📫 How to reach me: My email is jcpazm@gmail.com
 
 <!---
