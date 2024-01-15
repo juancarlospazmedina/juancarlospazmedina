@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @juancarlospazmedina
-- 👀 I’m interested in a web development job
-- 🌱 I’m currently learning html, css, bootstrap, javascript, jquery, node.js, APIs, MongoDB, Mongoose, React.js
+- 👀 I’m interested in fullstack web development projects
 - 💞️ I’m looking to collaborate on web development projects
 - 📫 How to reach me: My email is jcpazm@gmail.com
 
